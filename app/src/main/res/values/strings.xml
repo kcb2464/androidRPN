@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RPNCalculatorTest</string>
+    <string name="m7Button">7</string>
+    <string name="m8Button">8</string>
+    <string name="m9Button">9</string>
+    <string name="mPiButton">Pi</string>
+    <string name="mFSlashButton">/</string>
+    <string name="m4Button">4</string>
+    <string name="m5Button">5</string>
+    <string name="m6Button">6</string>
+    <string name="mBlankButton">" "</string>
+    <string name="mStarButton">*</string>
+    <string name="m1Button">1</string>
+    <string name="m2Button">2</string>
+    <string name="m3Button">3</string>
+    <string name="mBackButton"><![CDATA[<]]></string>
+    <string name="mSubButton">-</string>
+    <string name="m0Button">0</string>
+    <string name="mDecButton">.</string>
+    <string name="mSignButton">+/-</string>
+    <string name="mEnterButton">^</string>
+    <string name="mPlusButton">+</string>
+
+
+</resources>
